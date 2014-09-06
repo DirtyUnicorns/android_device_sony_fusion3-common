@@ -144,9 +144,7 @@ PRODUCT_PACKAGES += \
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
-    LiveWallpapers \
     LiveWallpapersPicker \
-    VisualizationWallpapers \
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
