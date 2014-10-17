@@ -161,3 +161,6 @@ TW_NO_USB_STORAGE := true
 TW_NO_SCREEN_BLANK := true
 
 BOARD_HARDWARE_CLASS := device/sony/fusion3-common/cmhw
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
